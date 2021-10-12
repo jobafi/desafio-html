@@ -1,0 +1,30 @@
+img.rp {
+    width: 200px;
+    height: 60px;
+}
+
+img.arca {
+    width: 130px;
+    height: 130px;
+}
+
+img.besche {
+    width: 130px;
+    height: 130px;
+}
+
+img, h3 {
+    display: inline-block;
+}
+
+h1, h2, h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+ul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
