@@ -1,2 +1,6 @@
-# desafio html
- primeiro desafio do curso de desenvolvimento web full stack
+# Desafio básico de HTML
+---
+
+ Primeiro desafio do curso de **Desenvolvimento Web Full Stack**.
+
+
