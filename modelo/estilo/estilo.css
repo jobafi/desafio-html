@@ -7,15 +7,15 @@ body {
 
 h1, h3 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(255,255,255);
+    color: rgb(248, 248, 245);
 }
 
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(255,255,255);
+    color: rgb(248, 248, 245);
 }
 
 ul {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(255,255,255);
+    color: rgb(248,248,245);
 }
