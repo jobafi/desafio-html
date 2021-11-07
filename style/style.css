@@ -31,3 +31,12 @@ p {
 ul {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+footer {
+    text-align: center;
+    color: purple;
+}
+
+#copy, #autor, #contato {
+    display: inline-block;
+}
