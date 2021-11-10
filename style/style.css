@@ -32,11 +32,22 @@ ul {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+
+/*FOOTER*/
 footer {
-    text-align: center;
-    color: purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.5rem;
 }
 
-#copy, #autor, #contato {
-    display: inline-block;
+.attribution {
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 20px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
